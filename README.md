@@ -1,10 +1,3 @@
-# we used CSV2 library 
-# pyfirmata directories
-# ArduinoUNO 
-
-
-
-
 
 
 
